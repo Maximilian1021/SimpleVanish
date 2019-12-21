@@ -1,0 +1,14 @@
+name: SimpleVanish
+version: 1.0
+author: Maximilian1021
+website:  https://game-energy.de
+description:  Ein ganz einfaches VanishSytem
+main: me.Maximilian1021.main.main
+
+commands:
+  vanish:
+    description: Macht dich für alle Unsichtbar
+    usage: /<command>
+  v:
+    description: Kurzvorm von vanish
+    usage: /<command>
